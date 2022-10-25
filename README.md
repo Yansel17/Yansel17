@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Yansel17
-- 👀 Estoy interesado a la creación de aplicaciones de escritorios y moviles.
-- 🌱 Actualmente estoy aprendiendo a manejar infraestructuras y  patrones multicapa (MVC).
+- 👀 Estoy interesado a la creación de aplicaciones de escritorios y moviles en una interfaz web.
+- 🌱 Actualmente estoy aprendiendo a manejar infraestructuras y  patrones multicapa (MVC y MVVM).
 - 💞️ Busco colaborar en equipo.
 - 📫 como llegar a mi: Yanselj6gmail.com ...
 

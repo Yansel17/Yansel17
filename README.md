@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Yansel17
 - 👀 Estoy interesado a la creación de aplicaciones web.
-- 🌱 Actualmente estoy aprendiendo a hacer paginas web responsivas y dinamicas.
+- 🌱 Actualmente estoy aprendiendo MERN Stack.
 - 💞️ Busco colaborar en equipo.
 - 📫 como llegar a mi: Yanselj6gmail.com ...
 

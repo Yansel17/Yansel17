@@ -2,7 +2,7 @@
 ### A junior front-end developer and Software Developer student
 
 ## About me
--   🌱 I am currently learning  **MERN Stack**
+-   🌱 I am currently learning  **REACT**
     
 -   💬 Lover of empirical knowledge and productive conversations
     

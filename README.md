@@ -1,5 +1,5 @@
-## Hi 👋, I'm Yansel Jose Martinez Montero
-### A junior front-end developer and Software Developer student
+## Hi 👋, I'm Yansel Martinez
+### A Software Developer
 
 ## About me
 -   🌱 I am currently learning  **REACT**
